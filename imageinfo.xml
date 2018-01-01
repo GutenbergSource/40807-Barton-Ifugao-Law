@@ -1,0 +1,76 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="13615" filedate="2018-01-01 11:16:33" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="59838" filedate="2018-01-01 11:16:08" width="480px" height="720px">
+</image>
+<image path="images/plate01.jpg" filesize="75016" filedate="2012-04-25 16:56:08" width="508px" height="720px">
+</image>
+<image path="images/plate02.jpg" filesize="101205" filedate="2012-04-25 17:02:49" width="720px" height="527px">
+</image>
+<image path="images/plate03.jpg" filesize="51084" filedate="2012-04-25 17:06:30" width="358px" height="720px">
+</image>
+<image path="images/plate04.jpg" filesize="72722" filedate="2012-04-25 17:12:03" width="514px" height="720px">
+</image>
+<image path="images/plate05.jpg" filesize="76778" filedate="2012-04-25 17:15:37" width="720px" height="506px">
+</image>
+<image path="images/plate06.jpg" filesize="92792" filedate="2012-05-15 19:28:55" width="515px" height="720px">
+</image>
+<image path="images/plate07.jpg" filesize="56267" filedate="2012-05-18 16:59:17" width="507px" height="720px">
+</image>
+<image path="images/plate08.jpg" filesize="37974" filedate="2012-05-18 17:02:18" width="283px" height="720px">
+</image>
+<image path="images/plate09.jpg" filesize="103262" filedate="2012-05-18 17:07:16" width="720px" height="508px">
+</image>
+<image path="images/plate10.jpg" filesize="73994" filedate="2012-05-18 17:11:34" width="507px" height="720px">
+</image>
+<image path="images/plate11.jpg" filesize="105776" filedate="2012-08-07 17:29:31" width="720px" height="516px">
+</image>
+<image path="images/plate12.jpg" filesize="76451" filedate="2012-08-08 17:05:24" width="510px" height="720px">
+</image>
+<image path="images/plate13.jpg" filesize="71774" filedate="2012-08-08 17:11:40" width="499px" height="720px">
+</image>
+<image path="images/plate14.jpg" filesize="69226" filedate="2012-08-08 17:16:50" width="505px" height="720px">
+</image>
+<image path="images/plate15.jpg" filesize="85919" filedate="2012-05-18 17:16:39" width="514px" height="720px">
+</image>
+<image path="images/plate16.jpg" filesize="74855" filedate="2012-05-15 19:17:01" width="507px" height="720px">
+</image>
+<image path="images/plate17.jpg" filesize="90475" filedate="2012-08-07 17:03:37" width="720px" height="506px">
+</image>
+<image path="images/plate18.jpg" filesize="84856" filedate="2012-09-10 16:57:57" width="720px" height="507px">
+</image>
+<image path="images/plate19.jpg" filesize="111706" filedate="2012-09-10 18:04:03" width="720px" height="505px">
+</image>
+<image path="images/plate21.jpg" filesize="78000" filedate="2012-09-10 17:34:13" width="720px" height="370px">
+</image>
+<image path="images/plate22.jpg" filesize="116325" filedate="2012-09-10 17:14:31" width="511px" height="720px">
+</image>
+<image path="images/plate23.jpg" filesize="84187" filedate="2012-09-11 17:19:58" width="720px" height="509px">
+</image>
+<image path="images/plate24.jpg" filesize="103227" filedate="2012-05-15 19:10:05" width="720px" height="513px">
+</image>
+<image path="images/plate25.jpg" filesize="62896" filedate="2012-05-15 19:03:50" width="510px" height="720px">
+</image>
+<image path="images/plate26.jpg" filesize="103738" filedate="2012-09-10 17:18:20" width="516px" height="720px">
+</image>
+<image path="images/plate27.jpg" filesize="86135" filedate="2012-09-11 17:24:30" width="720px" height="518px">
+</image>
+<image path="images/plate28.jpg" filesize="104170" filedate="2012-09-11 17:28:34" width="720px" height="489px">
+</image>
+<image path="images/plate29.jpg" filesize="84033" filedate="2012-09-10 17:01:52" width="511px" height="720px">
+</image>
+<image path="images/plate30.jpg" filesize="85145" filedate="2012-09-11 17:32:33" width="720px" height="509px">
+</image>
+<image path="images/plate31.jpg" filesize="93266" filedate="2012-09-11 17:36:38" width="720px" height="513px">
+</image>
+<image path="images/plate32.jpg" filesize="105876" filedate="2012-09-11 17:40:49" width="720px" height="508px">
+</image>
+<image path="images/plate33.jpg" filesize="89810" filedate="2012-09-10 17:05:39" width="510px" height="720px">
+</image>
+</images>
